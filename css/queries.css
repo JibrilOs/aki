@@ -15,6 +15,9 @@
     width: 30%!;
     margin: 0 auto!;
   }
+  .pro {
+    padding-left: 23px !important;
+  }
 }
 
 /* Small phones: from 0 to 480px */
