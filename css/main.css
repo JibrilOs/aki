@@ -14,7 +14,7 @@ body {
   text-rendering: optimizeLegibility;
   overflow-x: hidden;
 
-   margin: 0;
+  margin: 0;
 }
 
 /*****whole WRAPPER margin settins*******/
@@ -178,6 +178,7 @@ h3 {
   -o-border-radius: 3px;
   -webkit-border-radius: 3px;
   padding-top: 1px;
+  height: auto;
 }
 
 .card-text {
@@ -190,7 +191,7 @@ h3 {
 }
 
 .card {
-  width: 21rem !important;
+ 
 }
 
 /*****maincontent headings like h1,h2,h3 Beginning *******/
@@ -203,15 +204,12 @@ h3 {
   margin-top: 30px;
   margin-bottom: -15px;
   height: 20vh;
-
 }
 .fa-heart {
   color: red;
-
 }
 
-.info{
-text-align: center;
-
+.info {
+  text-align: center;
 }
 /*****wholefooter settins*******/
