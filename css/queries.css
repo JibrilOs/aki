@@ -2,7 +2,7 @@
 @media only screen and (max-width: 1200px) {
   .card-body {
     font-size: 10px;
-    height: 65vh;
+    
   }
 }
 
@@ -10,7 +10,7 @@
 @media only screen and (max-width: 1023px) {
   .card-body {
     font-size: 10px !important;
-    height: 100vh;
+   
   }
 }
 
@@ -21,7 +21,7 @@
   }
 .card-body {
     font-size: 10px;
-    height: 190vh;
+    
   }
 
   .forpic {
@@ -40,7 +40,7 @@
   }
   .card-body {
     font-size: 10px;
-    height: 42vh;
+    
   }
 
   h1 {

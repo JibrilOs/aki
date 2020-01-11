@@ -178,7 +178,7 @@ h3 {
   -o-border-radius: 3px;
   -webkit-border-radius: 3px;
   padding-top: 1px;
-  height: auto;
+  height: 12vh;
 }
 
 .card-text {
