@@ -11,6 +11,10 @@
   body {
     font-size: 13px;
   }
+  .forpic{
+    width: 50%;
+    margin: 0 auto;
+  }
 }
 
 /* Small phones: from 0 to 480px */
