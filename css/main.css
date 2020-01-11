@@ -13,16 +13,12 @@ body {
   font-size: 20px;
   text-rendering: optimizeLegibility;
   overflow-x: hidden;
-  padding: 20px;
+
+   margin: 0;
 }
 
 /*****whole WRAPPER margin settins*******/
-.conten {
-  width: auto;
-  margin-left: -34px;
-  margin-right: -34px !important;
-  margin-top: -20px !important;
-}
+
 /*****whole WRAPPER margin settins*******/
 
 /*****header*******/
@@ -162,6 +158,7 @@ h3 {
 
   color: black;
 }
+
 .carrd {
   width: 90%;
   height: 100vh;
