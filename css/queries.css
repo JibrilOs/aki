@@ -12,8 +12,6 @@
 @media only screen and (max-width: 1023px) {
   .card-body {
     font-size: 10px !important;
-    
-    
   }
   .navbar-toggler {
     background-color: white;
@@ -45,7 +43,7 @@
 @media only screen and (max-width: 480px) {
   body {
     padding: 0px;
-      width: 100% !important;
+    
   }
   .card-body {
     font-size: 10px;
